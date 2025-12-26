@@ -28,3 +28,5 @@ If this service is exposed beyond localhost or an internal admin network, it can
 ## Retest Plan
 - Re-run the scan after remediation.
 - Confirm Plugin **51192** no longer appears for the affected host/port.
+<img width="1298" height="716" alt="Screenshot 2025-12-25 at 9 35 31 PM" src="https://github.com/user-attachments/assets/ae8b9aac-b1a6-41e5-8916-d00f33d09504" />
+<img width="1298" height="716" alt="Screenshot 2025-12-25 at 9 35 45 PM" src="https://github.com/user-attachments/assets/1fed759e-ce34-44c8-941e-a795fdce582a" />
